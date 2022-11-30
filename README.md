@@ -2,6 +2,9 @@
 
 
 **thejoker-ayush/thejoker-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my quantum profile, where I have put forward some of the research work that I accomplished during my master's course.
+
+Also, we may find relevant quantum algorithms associated with different kinds of problems and some githib problems which I solved.
 
 Here are some ideas to get you started:
 
