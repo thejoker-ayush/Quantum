@@ -24,3 +24,5 @@ jbknlkm
 
 # 🏄‍♂️ Ayush
 
+
+[embed]https://github.com/thejoker-ayush/Quantum/blob/63159b79587b08f16e83dbf1554f7d76d2441b8d/BEC%20Light%20Scat.pdf[/embed]
