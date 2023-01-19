@@ -1,3 +1,5 @@
+# 🏄‍Quantum profile
+
 ### Hi there 👋
 
 
@@ -21,8 +23,6 @@ jbknlkm
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-# 🏄‍♂️ Ayush
 
 
 ### RELEVANT RESEARCH FILES
