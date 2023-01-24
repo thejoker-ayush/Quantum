@@ -1,4 +1,4 @@
-# 🏄‍Quantum profile
+# 🏄‍Quantum Mania
 
 ### Hi there 👋
 
