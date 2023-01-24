@@ -2,11 +2,12 @@
 
 ### Hi there 👋
 
+Here, I present my quantum profile, where I would like to portray a little bit of my knowledge in the study of the quantum realm... :P 
 
-**thejoker-ayush/thejoker-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-This is my quantum profile, where I have put forward some of the research work that I accomplished during my master's course.
+As I graduated with a Master's in advanced physics with my final thesis project in satellite quantum key distribution and fascination of quantum computing led me to an obsession of learning more and thus, I took up a few projects to get into more detail. 
 
-Also, we may find relevant quantum algorithms associated with different kinds of problems and some githib problems which I solved.
+Moreover, with an analytical coding enthusiasm, you may find relevant quantum algorithms associated with different kinds of problems and some githib problems which were fascinating to me.
+
 
 Here are some ideas to get you started:
 
