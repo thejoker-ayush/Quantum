@@ -1,4 +1,4 @@
-# 🏄‍Quantum Mania
+# 🏄‍QUANTUM MANIA
 
 ### Hi there 👋
 
