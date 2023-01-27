@@ -35,3 +35,7 @@ jbknlkm
 <a href= "https://github.com/thejoker-ayush/Quantum/blob/0365372d177688c3aeafbbe046ea55a6750506e6/BEC%20Light%20Scat.pdf"><img src="https://user-images.githubusercontent.com/110907842/213521680-63c26b2e-dc76-45a6-99d3-2932f7b34148.jpg" width="300" title="Light Scattering in BEC"></a>
 
 <!-- END YOUTUBE-CARDS -->
+
+
+### Problem Solving Skills
+
