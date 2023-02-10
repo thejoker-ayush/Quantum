@@ -25,3 +25,10 @@ Moreover, with an analytical coding enthusiasm, you may find relevant quantum al
 
 ### Problem Solving Skills
 
+****
+Here I present some relevant problem solving files dispaying my approach to different kinds of problems related to quantum information.
+
+* <a href= "https://github.com/thejoker-ayush/Quantum/blob/823021942a944de0dc11a2acf1d55da6d85115da/Information%20problem%20solving/Quantum%20Information%20Assignment%201.pdf"> Quantum Information Assignment 1 </a>
+* <a href= "https://github.com/thejoker-ayush/Quantum/blob/823021942a944de0dc11a2acf1d55da6d85115da/Information%20problem%20solving/Quantum%20Information%20Assignment%202.pdf"> Quantum Information Assignment 2 </a>
+* <a href= "https://github.com/thejoker-ayush/Quantum/blob/823021942a944de0dc11a2acf1d55da6d85115da/Information%20problem%20solving/Quantum%20Information%20Assignment%203.pdf"> Quantum Information Assignment 3 </a>
+* <a href= "https://github.com/thejoker-ayush/Quantum/blob/823021942a944de0dc11a2acf1d55da6d85115da/Information%20problem%20solving/quantinuum%20assignment.pdf"> Quantinuum Assignment </a>
